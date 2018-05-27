@@ -17,7 +17,9 @@ Easy-Monitor github 地址：https://github.com/hyj1991/easy-monitor/
 ###  项目分成两部分：
 1. Node-Monitor 包括监控页面的http服务，与nmProfiler通讯的tcp服务
 2. nmProfiler 包括profiler和tcp客户端
+
 当前项目即为Node-Monitor部分。
+nmProfiler地址：https://github.com/chenguohong/nmProfiler
 
 ### 部署
 
