@@ -28,5 +28,6 @@ nodeMonitor({
      }
 })
 
-node或pm2 启动即可。
+node或pm2启动。
+打开你的浏览器，访问http://localhost:20000,即可看到监控界面。
 
